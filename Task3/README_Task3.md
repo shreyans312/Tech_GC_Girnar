@@ -14,6 +14,15 @@ Manual teleoperation through the **keyboard** (Python Remote API) is used to pos
 
 ---
 
+## ⏳ Demonstration
+
+
+https://github.com/user-attachments/assets/cfc5efe4-b78c-469d-9688-65de1cd90b4a
+
+
+
+---
+
 ## ⚙️ Simulation Setup
 
 **Platform:** CoppeliaSim Educational Edition  
