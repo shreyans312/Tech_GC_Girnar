@@ -13,6 +13,16 @@ The implementation combines a **Lua child script** for low-level joint actuation
 
 ---
 
+## ⌛️ Demonstration
+
+
+
+https://github.com/user-attachments/assets/ec103d0b-19f7-4eaf-98c4-782b13e8cc75
+
+
+
+---
+
 ## ⚙️ Simulation Setup
 
 **Platform:** CoppeliaSim Educational Edition  
