@@ -9,6 +9,12 @@ The robot must traverse multiple **waypoints** while avoiding **static obstacles
 The simulation implements a simple **path-following** and **obstacle-avoidance** algorithm written in **Lua** (embedded script).
 
 ---
+## Demonstration
+
+
+https://github.com/user-attachments/assets/8fd60ed2-41a5-4f37-9148-1e5b75b13509
+
+
 
 ## ⚙️ Simulation Setup
 
